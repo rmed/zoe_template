@@ -1,0 +1,14 @@
+# Name of the agent
+agent =
+# Version of the agent. Follows format x.y.z
+version =
+# License of the agent (if any)
+license =
+# Maintainer/author of the agent
+maintainer =
+# Name of the script used to run the agent. Relative to ZOE_HOME/agents/AGENT_NAME
+script =
+# Topics an agent listens to separated by a whitespace
+topics =
+# Description of the agent
+description =
